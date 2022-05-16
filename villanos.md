@@ -5,4 +5,5 @@
 2. Joker
 3. Flash Reverso
 4. Doomsday
-5. DeadShot Hijo
+5. DeadShot Padre
+6. DeadShot Hijo
